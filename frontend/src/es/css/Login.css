@@ -1,0 +1,31 @@
+.container {
+  margin-top: 100px;
+  text-align: center;
+}
+
+.title {
+  margin-top: 150px;;
+  text-align: center;
+  font-size: 20px;
+}
+
+.form-input {
+  border: none;
+  background-color: aliceblue;
+  border-radius: 10px;
+  margin-bottom: 30px;
+  margin-left: 10px;
+  padding: 5px;
+}
+
+.form-btn {
+  border: none;
+  background-color: rgb(1, 137, 255);
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+
+.link-btn {
+  text-decoration: none;
+  color: rgb(1, 149, 255);
+}

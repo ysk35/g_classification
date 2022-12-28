@@ -1,2 +1,9 @@
 uvicorn
 fastapi
+sqlalchemy
+timm==0.6.11
+torch
+opencv-python
+albumentations
+numpy
+fastapi-login
